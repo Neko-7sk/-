@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - мой сайт https://2no.co/2J5A84
-- Говорят, те кто сделал Easy_3 получили хинт
+- Говорят, те кто сделал Easy_3 получили хинт (хинт)
+- обновил аву (не хинт)
 
 <!---
 Neko-7sk/Neko-7sk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
